@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.lip_app",
+      "sha256_cert_fingerprints": [
+        "2E:B7:C3:7C:69:EE:62:14:FA:53:95:6C:60:73:A6:7A:4C:59:2D:BC:89:AF:74:17:4A:F4:50:6C:C2:DE:DD:F6"
+      ]
+    }
+  }
+]
